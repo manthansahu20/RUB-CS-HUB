@@ -1,6 +1,6 @@
 # RUB-CS-HUB
 
-A collection of C, Python and Computer Science resources for all semesters.
+A collection of Codes ,Notes and PYQs of Computer Science papers  resources for all semesters.
 
 ## 📚 Semester-wise Resources
 
