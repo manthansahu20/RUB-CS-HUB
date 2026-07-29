@@ -1,22 +1,22 @@
 # C Programming - 1st Semester
 
-A collection of basic C programming programs for 1st Semester.
+A collection of basic **C Programming** programs for **1st Semester** students.
 
 ---
 
-# Contents
+## 📚 Contents
 
 1. Hello World
-2. Arithmetic Operation
+2. Arithmetic Operations
 3. Calculator
 4. Factorial
-5. Greatest Among 3 Numbers
+5. Greatest Among Three Numbers
 6. Even or Odd
-7. Prime Number
-8. Palindrome
+7. Prime Number using Function
+8. Palindrome Number
 9. Reverse a Number
 10. Sum & Product of Digits
-11. Swapping using 3rd Variable
+11. Swapping using Third Variable
 12. Swapping using Pointer
 13. Triangle Pattern
 14. Square Pattern
@@ -26,101 +26,105 @@ A collection of basic C programming programs for 1st Semester.
 
 ---
 
-# Programs
+# C Programs
 
 ### i. WAP to print **Hello World**.
-📄 **File:** [hello.c](./All%20Codes/hello.c)
+📄 **File:** [hello.c](./All-Codes/hello.c)
 
 ---
 
-### ii. WAP to perform arithmetic operations (+, -, ×, /).
-📄 **File:** [Arithmetic-operation.c](./All%20Codes/Arithmetic-operation.c)
+### ii. WAP to perform Arithmetic Operations (+, -, *, /).
+📄 **File:** [Arithmetic-operation.c](./All-Codes/Arithmetic-operation.c)
 
 ---
 
-### iii. WAP to create a simple calculator.
-📄 **File:** [Calculator.c](./All%20Codes/Calculator.c)
+### iii. WAP to create a Simple Calculator.
+📄 **File:** [Calculator.c](./All-Codes/Calculator.c)
 
 ---
 
-### iv. WAP to find the factorial of a number.
-📄 **File:** [Factorial.c](./All%20Codes/Factorial.c)
+### iv. WAP to find the Factorial of a Number.
+📄 **File:** [Factorial.c](./All-Codes/Factorial.c)
 
 ---
 
-### v. WAP to find the greatest among three numbers.
-📄 **File:** [Greatest-among3.c](./All%20Codes/Greatest-among3.c)
+### v. WAP to find the Greatest among Three Numbers.
+📄 **File:** [Greatest-among3.c](./All-Codes/Greatest-among3.c)
 
 ---
 
-### vi. WAP to check whether a number is Even or Odd.
-📄 **File:** [even-odd.c](./All%20Codes/even-odd.c)
+### vi. WAP to check whether a Number is Even or Odd.
+📄 **File:** [even-odd.c](./All-Codes/even-odd.c)
 
 ---
 
-### vii. WAP to check whether a number is Prime or not using function.
-📄 **File:** [Prime-num-using-fucn.c](./All%20Codes/Prime-num-using-fucn.c)
+### vii. WAP to check whether a Number is Prime or Not using Function.
+📄 **File:** [Prime-num-using-fucn.c](./All-Codes/Prime-num-using-fucn.c)
 
 ---
 
-### viii. WAP to check whether a number is Palindrome or not.
-📄 **File:** [Palindrome.c](./All%20Codes/Palindrome.c)
+### viii. WAP to check whether a Number is Palindrome or Not.
+📄 **File:** [Palindrome.c](./All-Codes/Palindrome.c)
 
 ---
 
-### ix. WAP to reverse a number.
-📄 **File:** [Reverse-a-num.c](./All%20Codes/Reverse-a-num.c)
+### ix. WAP to Reverse a Number.
+📄 **File:** [Reverse-a-num.c](./All-Codes/Reverse-a-num.c)
 
 ---
 
-### x. WAP to find the Sum and Product of digits of a number.
-📄 **File:** [Sum&product.c](./All%20Codes/Sum&product.c)
+### x. WAP to find the Sum and Product of Digits of a Number.
+📄 **File:** [Sum&product.c](./All-Codes/Sum&product.c)
 
 ---
 
-### xi. WAP to swap two numbers using a third variable.
-📄 **File:** [Swapping-using-3rd-v.c](./All%20Codes/Swapping-using-3rd-v.c)
+### xi. WAP to Swap Two Numbers using a Third Variable.
+📄 **File:** [Swapping-using-3rd-v.c](./All-Codes/Swapping-using-3rd-v.c)
 
 ---
 
-### xii. WAP to swap two numbers using pointers.
-📄 **File:** [Swapping-using-pointer.c](./All%20Codes/Swapping-using-pointer.c)
+### xii. WAP to Swap Two Numbers using Pointer.
+📄 **File:** [Swapping-using-pointer.c](./All-Codes/Swapping-using-pointer.c)
 
 ---
 
-### xiii. WAP to print a triangle pattern.
-📄 **File:** [Triangle-of-*-c.c](./All%20Codes/Triangle-of-*-c.c)
-
-> **Note:** Agar link work na kare to filename ko exactly GitHub ke naam ke according update kar dena (e.g. `Triangle-of-*.c`).
+### xiii. WAP to Print a Triangle Pattern.
+📄 **File:** [Triangle-pattern.c](./All-Codes/Triangle-pattern.c)
 
 ---
 
-### xiv. WAP to print a square pattern.
-📄 **File:** [square-pattern.c](./All%20Codes/square-pattern.c)
+### xiv. WAP to Print a Square Pattern.
+📄 **File:** [square-pattern.c](./All-Codes/square-pattern.c)
 
 ---
 
-### xv. WAP to print a pyramid pattern.
-📄 **File:** [Pyramid-pattern.c](./All%20Codes/Pyramid-pattern.c)
+### xv. WAP to Print a Pyramid Pattern.
+📄 **File:** [Pyramid-pattern.c](./All-Codes/Pyramid-pattern.c)
 
 ---
 
-### xvi. WAP to print an inverted pattern.
-📄 **File:** [Inverted-pattern.c](./All%20Codes/Inverted-pattern.c)
+### xvi. WAP to Print an Inverted Pattern.
+📄 **File:** [Inverted-pattern.c](./All-Codes/Inverted-pattern.c)
 
 ---
 
-### xvii. WAP to calculate the area of different shapes.
-📄 **File:** [Area-of-diff-shapes.c](./All%20Codes/Area-of-diff-shapes.c)
+### xvii. WAP to Calculate the Area of Different Shapes.
+📄 **File:** [Area-of-diff-shapes.c](./All-Codes/Area-of-diff-shapes.c)
 
 ---
 
-## Author's 
+## 📂 Other Resources
+
+- 📘 [Notes](./Notes/)
+- 📝 [Previous Year Questions (PYQs)](./PYQs/)
+
+---
+
+## 👨‍💻 Authors
 
 - **Manthan Sahu**
 - **Chandan K. Panda**
 
 ---
- 
 
-⭐ If you found this repository helpful, don't forget to star it.
+⭐ **If this repository helped you, don't forget to Star ⭐ the repository!**
