@@ -4,7 +4,7 @@ A collection of C, Python and Computer Science resources for all semesters.
 
 ## 📚 Semester-wise Resources
 
-| Semester | C Programming | Python |
+| Semester | Paper-1 | Paper-2|
 |----------|---------------|---------|
 | 1st Semester | [C Programming](./1st-Sem/c/) | [Python](./1st-Sem/Python/) |
 | 2nd Semester | Coming Soon | Coming Soon |
