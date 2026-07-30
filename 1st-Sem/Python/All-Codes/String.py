@@ -1,0 +1,10 @@
+s = input("Enter a string: ")
+
+print("Upper:", s.upper())
+print("Lower:", s.lower())
+print("Title:", s.title())
+print("Length:", len(s))
+print("Count of a:", s.count("a"))
+print("Replace:", s.replace("a", "@"))
+print("Starts with A:", s.startswith("A"))
+print("Ends with Z:", s.endswith("Z"))
