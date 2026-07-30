@@ -31,6 +31,6 @@
 | Factorial | [Factorial.py](./1st-Sem/Python/All-Codes/Factorial.py) |
 | Prime Numbers Between Two Numbers | [Prime_between_2no.py](./1st-Sem/Python/All-Codes/Prime_between_2no.py) |
 | List Operations | [List_operations.py](./1st-Sem/Python/All-Codes/List_operations.py) |
-| Stack & Queue | [Stack_queue.pu](./1st-Sem/Python/All-Codes/Stack_queue.pu) |
+| Stack & Queue | [Stack_queue.py](./1st-Sem/Python/All-Codes/Stack_queue.py) |
 | Matrix Addition | [Addition_of_matrix.py](./1st-Sem/Python/All-Codes/Addition_of_matrix.py) |
 | Tuple Operations | [TupleOperation.py](./1st-Sem/Python/All-Codes/TupleOperation.py) |
