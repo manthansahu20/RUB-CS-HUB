@@ -20,7 +20,7 @@
 | All Operators | [All_operators.py](./1st-Sem/Python/All-Codes/All_operators.py) |
 | Trigonometric Functions | [Trigonometric_fucn.py](./1st-Sem/Python/All-Codes/Trigonometric_fucn.py) |
 | Fahrenheit to Celsius | [Fahrenheit_to_celsius.py](./1st-Sem/Python/All-Codes/Fahrenheit_to_celsius.py) |
-| Celsius to Fahrenheit | [Celcius_to_farenheit.py](./1st-Sem/Python/All-Codes/Celcius_to_farenheit.py) |
+| Celsius to Fahrenheit | [Celcius_to_farenheit.py](./1st-Sem/Python/All-Codes/Celcius_to_fahrenheit.py) |
 | Roots of Quadratic Equation | [Roots_of_eqn.py](./1st-Sem/Python/All-Codes/Roots_of_eqn.py) |
 | String Functions | [String.py](./1st-Sem/Python/All-Codes/String.py) |
 | Name Operations | [Name_operation.py](./1st-Sem/Python/All-Codes/Name_operation.py) |
