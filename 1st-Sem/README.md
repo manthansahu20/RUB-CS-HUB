@@ -28,11 +28,7 @@ This repository is created to help students access all essential study materials
 ```
 1st-Sem/
 │
-├── 📘 Mathematics
 ├── 💻 Programming
-├── ⚡ Physics
-├── 🔬 Chemistry
-├── 📄 Notes
 ├── 📝 Assignments
 ├── 📚 Books
 ├── 📂 Previous Year Questions
