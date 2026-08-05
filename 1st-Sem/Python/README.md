@@ -1,9 +1,6 @@
-
-# 🐍 Python Programming
-
 <div align="center">
 
-# Python Programming Resources
+# 🐍Python Programming Resources
 
 *A complete collection of Python Programming materials for 1st Semester.*
 
