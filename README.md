@@ -10,7 +10,7 @@ A curated collection of **Codes**, **Notes**, **SQL Queries**, and **Previous Ye
 
 ## 📚 Semester-wise Resources
 
-| Semester | Paper-1 | Paper-2 |
+| Semester | Paper-1 | Paper-2 | Paper-3 |
 |----------|---------|---------|
 | 1st Semester | [C Programming](./1st-Sem/c/) | [Python](./1st-Sem/Python/) |
 | 2nd Semester | [DSA](./2nd-Sem/DSA/) | [DBMS](./2nd-Sem/DBMS/) |
