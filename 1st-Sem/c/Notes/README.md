@@ -36,9 +36,7 @@ The goal of this repository is to provide easy-to-understand C programming notes
 
 ## 🙏 Credits
 
-* **Handwritten Notes:** Prepared by me.
+* **Handwritten Notes:** Prepared by **Manthan Sahu** and **Chandan Ku. Panda** .
 * **Digital Notes:** Collected from **Rakesh Deep**. Full credit for the original digital content belongs to the respective creator.
-
-If you are the original creator and would like any changes regarding the shared material, please let me know.
 
 ⭐ If these notes help you in your learning journey, consider giving this repository a star.
