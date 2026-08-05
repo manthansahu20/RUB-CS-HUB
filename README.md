@@ -98,7 +98,8 @@ A collection of Codes, Notes and PYQs of Computer Science resources for all seme
 
 # 🙏 Special Thanks
 
-A heartfelt thank you to **Dr. Debabrata Dasana**, **Head of the Department (CSE)**, for inspiring and encouraging the idea behind **RUB-CS-HUB**.
+A heartfelt thank you to **Dr. Debabrata Dasana**, **Head of the Department (CS)**, for inspiring and encouraging the idea behind-
+**RUB-CS-HUB**.
 
 His guidance and vision motivated us to create a platform where students can easily access study materials, programming resources, notes, and previous year question papers.
 
