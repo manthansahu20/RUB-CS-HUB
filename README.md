@@ -4,15 +4,12 @@
 <h1 align="center">📚 RUB-CS-HUB</h1>
 
 <p align="center">
-  <b>Your Complete Computer Science Resource Hub for Ravenshaw University.</b>
+  <b>Your Complete Computer Science Resource Hub for Rajendra University Balangir.</b>
 </p>
 
 A curated collection of **Codes**, **Notes**, **SQL Queries**, and **Previous Year Question Papers (PYQs)** for all semesters of the Computer Science curriculum. This repository is designed to help students prepare for practicals, assignments, and university examinations through well-organized, beginner-friendly resources.
-
 > 🚀 Learn • Practice • Build • Succeed
-# RUB-CS-HUB
 
-A collection of Codes, Notes and PYQs of Computer Science resources for all semesters.
 
 ## 📚 Semester-wise Resources
 
