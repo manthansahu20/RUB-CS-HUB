@@ -1,7 +1,16 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/manthansahu20/RUB-CS-HUB?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/manthansahu20/RUB-CS-HUB?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/manthansahu20/RUB-CS-HUB?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+<p align="center">
+  <img src="assets/banner.png" alt="RUB-CS-HUB Banner" width="100%">
+</p>
+
+<h1 align="center">📚 RUB-CS-HUB</h1>
+
+<p align="center">
+  <b>Your Complete Computer Science Resource Hub for Ravenshaw University.</b>
+</p>
+
+A curated collection of **Codes**, **Notes**, **SQL Queries**, and **Previous Year Question Papers (PYQs)** for all semesters of the Computer Science curriculum. This repository is designed to help students prepare for practicals, assignments, and university examinations through well-organized, beginner-friendly resources.
+
+> 🚀 Learn • Practice • Build • Succeed
 # RUB-CS-HUB
 
 A collection of Codes, Notes and PYQs of Computer Science resources for all semesters.
