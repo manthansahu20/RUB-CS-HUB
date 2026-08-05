@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Semester](https://img.shields.io/badge/Semester-1-blue?style=for-the-badge)
-![Branch](https://img.shields.io/badge/Branch-CSE-success?style=for-the-badge)
+![Branch](https://img.shields.io/badge/Branch-CS-success?style=for-the-badge)
 ![University](https://img.shields.io/badge/University-RUB-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
