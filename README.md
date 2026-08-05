@@ -1,4 +1,7 @@
-
+![GitHub Repo stars](https://img.shields.io/github/stars/manthansahu20/RUB-CS-HUB?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/manthansahu20/RUB-CS-HUB?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/manthansahu20/RUB-CS-HUB?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 # RUB-CS-HUB
 
 A collection of Codes, Notes and PYQs of Computer Science resources for all semesters.
