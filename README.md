@@ -117,6 +117,27 @@ A collection of Codes, Notes and PYQs of Computer Science resources for all seme
 | Graph (Adjacency Matrix) | [Graph.c](./2nd-Sem/DSA/All-Codes/Graph.c) |
 | BFS and DFS Traversal | [BFS_DFS.c](./2nd-Sem/DSA/All-Codes/BFS_DFS.c) |
 
+
+# 🗄️ 2nd Semester - DBMS
+
+| Resource | Link |
+|----------|------|
+| 💻 All Queries | [All Queries](./2nd-Sem/DBMS/All-Queries/) |
+| 📝 Notes | [Notes](./2nd-Sem/DBMS/Notes/) |
+| 📄 PYQs | [PYQs](./2nd-Sem/DBMS/PYQs/) |
+
+### 🗄️ SQL Files
+
+| SQL File | Link |
+|----------|------|
+| Create Tables | [Create_Tables.sql](./2nd-Sem/DBMS/All-Queries/Create_Tables.sql) |
+| Insert Records | [Insert_Records.sql](./2nd-Sem/DBMS/All-Queries/Insert_Records.sql) |
+| Queries 1 - 10 | [Q1-Q10.sql](./2nd-Sem/DBMS/All-Queries/Q1-Q10.sql) |
+| Queries 11 - 20 | [Q11-Q20.sql](./2nd-Sem/DBMS/All-Queries/Q11-Q20.sql) |
+| Queries 21 - 30 | [Q21-Q30.sql](./2nd-Sem/DBMS/All-Queries/Q21-Q30.sql) |
+| Queries 31 - 37 | [Q31-Q37.sql](./2nd-Sem/DBMS/All-Queries/Q31-Q37.sql) |
+
+
 ## 👨‍💻 Authors
 
 - **Manthan Sahu**
