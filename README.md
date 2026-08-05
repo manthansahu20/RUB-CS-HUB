@@ -8,7 +8,7 @@ A collection of Codes, Notes and PYQs of Computer Science resources for all seme
 | Semester | Paper-1 | Paper-2 |
 |----------|---------|---------|
 | 1st Semester | [C Programming](./1st-Sem/c/) | [Python](./1st-Sem/Python/) |
-| 2nd Semester | Coming Soon | Coming Soon |
+| 2nd Semester | [DSA](./2nd-Sem/DSA/) | [DBMS](./2nd-Sem/DBMS/) |
 | 3rd Semester | Coming Soon | Coming Soon |
 | 4th Semester | Coming Soon | Coming Soon |
 | 5th Semester | Coming Soon | Coming Soon |
