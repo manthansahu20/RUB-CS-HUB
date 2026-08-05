@@ -85,6 +85,38 @@ A collection of Codes, Notes and PYQs of Computer Science resources for all seme
 
 ---
 
+---
+
+# 📘 2nd Semester - Data Structures (DSA)
+
+| Resource | Link |
+|----------|------|
+| 💻 All Codes | [All Codes](./2nd-Sem/DSA/All-Codes/) |
+| 📝 Notes | [Notes](./2nd-Sem/DSA/Notes/) |
+| 📄 PYQs | [PYQs](./2nd-Sem/DSA/PYQs/) |
+
+### 💻 DSA Programs
+
+| Program | Link |
+|---------|------|
+| Search an Element and Count Occurrences | [Search_and_occurrences.c](./2nd-Sem/DSA/All-Codes/Search_and_occurrences.c) |
+| Insert and Delete in Array | [Insert_and_Delete_in_array.c](./2nd-Sem/DSA/All-Codes/Insert_and_Delete_in_array.c) |
+| Binary Search | [Binary_search.c](./2nd-Sem/DSA/All-Codes/Binary_search.c) |
+| Bubble Sort | [Bubble_sort.c](./2nd-Sem/DSA/All-Codes/Bubble_sort.c) |
+| Selection Sort | [Selection_sort.c](./2nd-Sem/DSA/All-Codes/Selection_sort.c) |
+| Singly Linked List (All Operations) | [Singly_linked_list_all_operations.c](./2nd-Sem/DSA/All-Codes/Singly_linked_list_all_operations.c) |
+| Circular Linked List (Insert & Delete) | [Circular_linked_list_insert_delete.c](./2nd-Sem/DSA/All-Codes/Circular_linked_list_insert_delete.c) |
+| Doubly Linked List (Insert & Delete) | [Doubly_linked_list_insert_delete.c](./2nd-Sem/DSA/All-Codes/Doubly_linked_list_insert_delete.c) |
+| Sparse Matrix | [Sparse_matrix.c](./2nd-Sem/DSA/All-Codes/Sparse_matrix.c) |
+| Polynomial Representation | [Polynomial.c](./2nd-Sem/DSA/All-Codes/Polynomial.c) |
+| Stack using Linked List | [Stack_using_linked_list.c](./2nd-Sem/DSA/All-Codes/Stack_using_linked_list.c) |
+| Queue using Linked List | [Queue_using_linked_list.c](./2nd-Sem/DSA/All-Codes/Queue_using_linked_list.c) |
+| Circular Queue | [Circular_queue.c](./2nd-Sem/DSA/All-Codes/Circular_queue.c) |
+| Binary Search Tree | [Binary_search_tree.c](./2nd-Sem/DSA/All-Codes/Binary_search_tree.c) |
+| Tree Traversals | [Tree_traversals.c](./2nd-Sem/DSA/All-Codes/Tree_traversals.c) |
+| Graph (Adjacency Matrix) | [Graph.c](./2nd-Sem/DSA/All-Codes/Graph.c) |
+| BFS and DFS Traversal | [BFS_DFS.c](./2nd-Sem/DSA/All-Codes/BFS_DFS.c) |
+
 ## 👨‍💻 Authors
 
 - **Manthan Sahu**
