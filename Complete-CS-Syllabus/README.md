@@ -166,9 +166,6 @@ Practical work includes:
 * User-defined functions
 
 ---
-
-# 🟩 Semester II
-
 ## II. Problem Solving with C Programming
 
 ### Core Topics
@@ -217,7 +214,7 @@ Includes practical programs involving:
 * File handling
 
 ---
-
+# 🟩 Semester II
 ## III. Data Structures
 
 ### Core Topics
