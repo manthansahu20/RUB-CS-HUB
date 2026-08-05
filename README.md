@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="RUB-CS-HUB Banner" width="100%">
-</p>
 <h1 align="center">📚 RUB-CS-HUB</h1>
 
 <p align="center">
