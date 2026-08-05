@@ -8,8 +8,8 @@ These notes have been prepared to make learning C programming simple and organiz
 ## 📚 About the Notes
 
 This repository contains two types of notes:
-
-* ✍️ **Handwritten Notes** – Created by **Manthan Sahu** with my own understanding and learning.
+ooo0
+* ✍️ **Handwritten Notes** – Created by **Manthan Sahu** and **Chandan ku. Panda** with our own understanding and learning.
 * 💻 **Digital Notes** – Collected and organized from **Rakesh Deep** for additional reference and better concept clarity.
 
 ## 📖 Topics Covered
