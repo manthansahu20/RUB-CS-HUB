@@ -147,6 +147,9 @@ A collection of Codes, Notes and PYQs of Computer Science resources for all seme
 |---------|----------|
 | 🐍 Python | **Soumya Ranjan Bhoi** |
 | 💻 C Programming | **Tanmay Bhoi** |
+| 📚 Data Structures (DSA) | **Narendra Rout** & **Tanmay Bhoi** |
+| 🗄️ Database Management System (DBMS) | **Nirjarinee Parida** |
+
 
 
 # 🙏 Special Thanks
