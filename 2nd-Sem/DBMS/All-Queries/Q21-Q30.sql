@@ -3,48 +3,69 @@
 -- DBMS Practical Queries (Q21 - Q30)
 -- ==========================================
 
--- Q21. Display Name, Hire Date and Day of the Week.
+-- Q21. Display Name, Hire Date and Day of the week.
+SELECT Ename, Hire_date,
+TO_CHAR(Hire_date,'DAY') AS Day
+FROM EMPLOYEE;
+
+-- Q22. Display Name, Department Name and Department No.
+SELECT E.Ename, D.Dname, D.Dno
+FROM EMPLOYEE E, DEPARTMENT D
+WHERE E.Dno = D.Dno;
+
+-- Q23. Display unique Jobs in Department 30.
+SELECT DISTINCT Job_type
+FROM EMPLOYEE
+WHERE Dno = 30;
+
+-- Q24. Display Name and Department Name of employees having 'A' in their name.
+SELECT E.Ename, D.Dname
+FROM EMPLOYEE E, DEPARTMENT D
+WHERE E.Dno = D.Dno
+AND E.Ename LIKE '%A%';
+
+-- Q25. Display Name, Job, Department No. and Department Name
+-- of employees working at Dallas.
+SELECT E.Ename, E.Job_type, D.Dno, D.Dname
+FROM EMPLOYEE E, DEPARTMENT D
+WHERE E.Dno = D.Dno
+AND D.Location='DALLAS';
+
+-- Q26. Display Employee Name, Employee No.,
+-- Manager Name and Manager No.
+SELECT E.Ename AS Employee_Name,
+E.Eno AS Employee_No,
+M.Ename AS Manager_Name,
+M.Eno AS Manager_No
+FROM EMPLOYEE E
+LEFT JOIN EMPLOYEE M
+ON E.Manager=M.Eno;
+
+-- Q27. Display Name, Department No. and Salary
+-- of employees whose salary matches any employee
+-- earning commission.
+SELECT Ename, Dno, Salary
+FROM EMPLOYEE
+WHERE Salary IN
+(SELECT Salary
+FROM EMPLOYEE
+WHERE Commission IS NOT NULL);
+
+-- Q28. Display Name and Salary represented by '*'
+-- (1 star = $100).
 SELECT Ename,
-       Hire_date,
-       TO_CHAR(Hire_date,'DAY') AS Day
+RPAD('*',Salary/100,'*') AS Salary
 FROM EMPLOYEE;
 
--- Q22. Display employee names with salary rounded to nearest integer.
-SELECT Ename,
-       ROUND(Salary) AS Salary
+-- Q29. Display Highest, Lowest, Sum and Average Salary.
+SELECT MAX(Salary) Highest,
+MIN(Salary) Lowest,
+SUM(Salary) Total,
+AVG(Salary) Average
 FROM EMPLOYEE;
 
--- Q23. Display employee names having 'A' as the first character.
-SELECT Ename
+-- Q30. Display number of employees performing the same job.
+SELECT Job_type,
+COUNT(*) AS Total_Employees
 FROM EMPLOYEE
-WHERE Ename LIKE 'A%';
-
--- Q24. Display employee names containing 'T'.
-SELECT Ename
-FROM EMPLOYEE
-WHERE Ename LIKE '%T%';
-
--- Q25. Display employee names ending with 'N'.
-SELECT Ename
-FROM EMPLOYEE
-WHERE Ename LIKE '%N';
-
--- Q26. Display maximum salary.
-SELECT MAX(Salary) AS Maximum_Salary
-FROM EMPLOYEE;
-
--- Q27. Display minimum salary.
-SELECT MIN(Salary) AS Minimum_Salary
-FROM EMPLOYEE;
-
--- Q28. Display average salary.
-SELECT AVG(Salary) AS Average_Salary
-FROM EMPLOYEE;
-
--- Q29. Display total salary of all employees.
-SELECT SUM(Salary) AS Total_Salary
-FROM EMPLOYEE;
-
--- Q30. Display total number of employees.
-SELECT COUNT(*) AS Total_Employees
-FROM EMPLOYEE;
+GROUP BY Job_type;
