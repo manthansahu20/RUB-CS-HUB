@@ -1,5 +1,5 @@
 
-# 🎓 Complete CS Syllabus
+# 🎓 Complete CS Syllabus 
 
 <p align="center">
   <strong>A Complete B.Sc. Computer Science Syllabus & Learning Roadmap</strong><br>
