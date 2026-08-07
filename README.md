@@ -151,6 +151,7 @@ A curated collection of **Codes**, **Notes**, **SQL Queries**, and **Previous Ye
 
 - **Manthan Sahu**
 - **Chandan Kumar Panda**
+- **Kuamani Majhi**
 
 | Subject | Guidance |
 |---------|----------|
