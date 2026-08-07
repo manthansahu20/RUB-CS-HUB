@@ -29,7 +29,9 @@ A curated collection of **Codes**, **Notes**, **SQL Queries**, and **Previous Ye
 |----------|------|
 | 💻 All Codes | [All Codes](./1st-Sem/c/All-Codes/) |
 | 📝 Notes | [Notes](./1st-Sem/c/Notes/) |
-| 📄 PYQs | [PYQs](./1st-Sem/c/PYQs/) |
+| 📄 PYQs | [PYQs](./1st-Sem/c/PYQs/) 
+| 📄 PYQs | [SYLLABUS](./1st-Sem/c/SyIIabus/) |
+
 
 ### 💻 C Programs
 
