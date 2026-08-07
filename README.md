@@ -12,7 +12,7 @@ A curated collection of **Codes**, **Notes**, **SQL Queries**, and **Previous Ye
 
 | Semester | Paper-1 | Paper-2 | Paper-3 | 
 |----------|---------|---------|---------|
-| 1st Semester | [C Programming](./1st-Sem/c/) | [Python](./1st-Sem/Python/) | 
+| 1st Semester | [Python](./1st-Sem/Python/)|  [C Programming](./1st-Sem/c/) | 
 | 2nd Semester | [DSA](./2nd-Sem/DSA/) | [DBMS](./2nd-Sem/DBMS/) |
 | 3rd Semester | Coming Soon | Coming Soon |
 | 4th Semester | Coming Soon | Coming Soon |
