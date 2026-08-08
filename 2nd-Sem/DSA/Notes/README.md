@@ -7,7 +7,8 @@
 
 ## 📄 PDF
 
-**👉 [📥 Open DSA Notes](./DS-1-2_UNIT.pdf)**
+**👉 [📥 Open hand written DS Notes](./DS-1-2_UNIT.pdf)**
+**👉 [📥 Open digital DS Notes](./Manthan_sahu-DS-notes.pdf)**
 
 ## ✍️ Credits
 
