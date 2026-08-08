@@ -8,11 +8,13 @@
 ## 📄 PDF
 
 **👉 [📥 Open hand written DS Notes](./DS-1-2_UNIT.pdf)**
+
 **👉 [📥 Open digital DS Notes](./Manthan_sahu-DS-notes.pdf)**
 
 ## ✍️ Credits
 
-**Notes by Akash Pradhan**
+ Hand written notes are prepared  by **Akash Pradhan**
+ Digital notes are prepared by **Manthan Sahu**
 
 Special thanks to **Akash Pradhan** for creating and sharing these notes. ❤️
 
