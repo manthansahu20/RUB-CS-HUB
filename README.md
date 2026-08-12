@@ -14,7 +14,7 @@ A curated collection of **Codes**, **Notes**, **SQL Queries**, and **Previous Ye
 |----------|---------|---------|---------|
 | 1st Semester | [Python](./1st-Sem/Python/)|  [C Programming](./1st-Sem/c/) | 
 | 2nd Semester | [DS](./2nd-Sem/DSA/) | [DBMS](./2nd-Sem/DBMS/) |
-| 3rd Semester | Coming Soon | Coming Soon |
+| 3rd Semester | [DMS](./3rd-Sem/DMS/) | [CO](./3rd-Sem/CO/) |[OS](./3rd-Sem/OS/) |
 | 4th Semester | Coming Soon | Coming Soon |
 | 5th Semester | Coming Soon | Coming Soon |
 | 6th Semester | Coming Soon | Coming Soon |
