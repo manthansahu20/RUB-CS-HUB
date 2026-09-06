@@ -146,6 +146,39 @@ A curated collection of **Codes**, **Notes**, **SQL Queries**, and **Previous Ye
 | Queries 31 - 37 | [Q31-Q37.sql](./2nd-Sem/DBMS/All-Queries/Q31-Q37.sql) |
 
 
+---
+
+# 📐 3rd Semester - Discrete Mathematical Structures (DMS)
+
+| Resource | Link |
+|----------|------|
+| 📝 Notes | [Notes](./3rd-Sem/DMS/Notes/) |
+| 📄 PYQs | [PYQs](./3rd-Sem/DMS/PYQs/) |
+| 📓 Syllabus | [Syllabus](./3rd-Sem/DMS/Syllabus/) |
+
+---
+
+# 💻 3rd Semester - Computer Organization (CO)
+
+| Resource | Link |
+|----------|------|
+| 📝 Notes | [Notes](./3rd-Sem/CO/Notes/) |
+| 📄 PYQs | [PYQs](./3rd-Sem/CO/PYQs/) |
+| 📓 Syllabus | [Syllabus](./3rd-Sem/CO/Syllabus/) |
+
+---
+
+# 🖥️ 3rd Semester - Operating Systems (OS)
+
+| Resource | Link |
+|----------|------|
+| 💻 All Codes | [All Codes](./3rd-Sem/OS/All-Codes/) |
+| 📝 Notes | [Notes](./3rd-Sem/OS/Notes/) |
+| 📄 PYQs | [PYQs](./3rd-Sem/OS/PYQs/) |
+| 📓 Syllabus | [Syllabus](./3rd-Sem/OS/Syllabus/) |
+
+---
+
 ## 👨‍💻 Authors
 
 - **Manthan Sahu**
