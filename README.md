@@ -189,7 +189,7 @@ A curated collection of **Codes**, **Notes**, **SQL Queries**, and **Previous Ye
 |---------|----------|
 | 🐍 Python | **Soumya Ranjan Bhoi** |
 | 💻 C Programming | **Tanmay Bhoi** |
-| 📚 Data Structures (DSA) | **Narendra Rout** & **Tanmay Bhoi** |
+| 📚 Data Structures (DS) | **Narendra Rout** & **Tanmay Bhoi** |
 | 🗄️ Database Management System (DBMS) | **Nirjarinee Parida** |
 
 
